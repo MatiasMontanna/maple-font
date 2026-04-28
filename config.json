@@ -15,7 +15,12 @@
     "bold": 700,
     "extrabold": 800
   },
+<<<<<<< HEAD
   "line_height": 1,
+=======
+  "line_height": 1.0,
+  "width": "default",
+>>>>>>> remotes/upstream/variable
   "feature_freeze": {
     "cv01": "enable",
     "cv02": "enable",
